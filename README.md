@@ -1,7 +1,7 @@
 luglogolatte
 ============
 
-This is a logo for Nairobi LUG. Some of the stuff before only makes sense in Inkscape
+This is a logo for Nairobi LUG. Some of the stuff below only makes sense in Inkscape.
 
 #teh real GNU, just before it got sipped
 http://thechive.files.wordpress.com/2013/05/amazing-latte-art-38.jpg
@@ -13,7 +13,8 @@ http://thechive.files.wordpress.com/2013/05/amazing-latte-art-38.jpg
 * Better have the fonts: Open sans, Merriweather and Cabin Sketch
 * Better have Inkscape running on GNU/Linux when you open the SVG
 
-#teh new LOGOs
+#New logo; Glow on GNU, gnu on.
 Use *logo.svg* then select the veritable GNU. Go to Filters > Color > Soft colors | Solarize
 The green for CSS = 94c52a, b5c94a
+The purple for CSS = Forgot how to pick properly with GIMP. kept getting a dark version...
 

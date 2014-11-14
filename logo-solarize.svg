@@ -14,7 +14,10 @@
    id="svg3405"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logo-solarize.svg">
+   sodipodi:docname="logo-solarize.svg"
+   inkscape:export-filename="/tmp/sdsd.png"
+   inkscape:export-xdpi="127.21"
+   inkscape:export-ydpi="127.21">
   <defs
      id="defs3407">
     <filter
@@ -125,15 +128,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.16"
-     inkscape:cx="18.687605"
-     inkscape:cy="173.2639"
+     inkscape:cx="89.908525"
+     inkscape:cy="169.81562"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="1600"
-     inkscape:window-y="247"
+     inkscape:window-width="1600"
+     inkscape:window-height="1164"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -157,9 +160,9 @@
      id="layer1"
      transform="translate(-198.12274,-355.65001)">
     <path
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        sodipodi:type="arc"
        style="fill:#313327;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path4350"
@@ -170,9 +173,9 @@
        d="m 262,294.86218 c 0,91.95541 -74.54459,166.5 -166.5,166.5 -91.9554108,0 -166.5,-74.54459 -166.5,-166.5 0,-91.95541 74.5445892,-166.5 166.5,-166.5 91.95541,0 166.5,74.54459 166.5,166.5 z"
        transform="matrix(1.0275338,0,0,1.0275338,276.87052,229.38105)" />
     <g
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        style="fill:#bda373;fill-opacity:0.99215686000000003;stroke:none;stroke-opacity:0.99215896000000003;filter:url(#filter4920)"
        id="g4352"
        transform="matrix(0.47381417,0,0,0.47381417,248.33714,425.65245)">
@@ -187,17 +190,17 @@
       </g>
     </g>
     <path
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        style="fill:#bca373;fill-opacity:0.27058824;fill-rule:evenodd;stroke:none"
        d="m 406.97601,355.65001 -31.6226,16.22757 6.50363,3.50313 31.43407,-12.88152 -6.3151,-6.84918 z m 6.3151,6.84918 21.36437,23.21812 4.79127,-0.26703 -19.77779,-25.55881 -6.37785,2.60772 z m 26.15564,22.95109 5.23115,6.77062 34.07321,1.02111 -3.29889,-9.78681 -36.00547,1.99508 z m 39.30436,7.79173 9.77114,28.93627 4.42998,1.68087 -7.43044,-30.41293 -6.77068,-0.20421 z m 14.20112,30.61714 2.26206,9.28412 30.4601,14.67235 1.03677,-11.10638 -33.75893,-12.85009 z m 32.72216,23.95647 -2.78054,29.56464 3.67594,3.66022 5.46682,-30.16156 -6.36222,-3.0633 z m 0.8954,33.22486 -1.82226,10.05385 21.39589,25.27604 5.73383,-10.17951 -25.30746,-25.15038 z m 19.57363,35.32989 -14.31105,25.43314 2.18355,5.63957 17.13872,-25.16606 -5.01122,-5.90665 z m -12.1275,31.07271 -5.85952,8.60863 9.00137,30.88421 9.4412,-7.022 -12.58305,-32.47084 z m 3.14185,39.49284 -23.3438,17.35862 -0.36132,7.14762 26.14005,-16.16471 -2.43493,-8.34153 z m -23.70512,24.50624 -8.60864,5.3254 -4.1943,30.8371 11.13777,-2.4978 1.66517,-33.6647 z m -12.80294,36.1625 -28.73204,6.4408 -3.75448,7.4461 31.18263,-4.2415 1.30389,-9.6454 z m -32.48652,13.8869 -9.31556,1.2567 -15.8663,25.6688 10.49377,2.105 14.68809,-29.0305 z m -25.18186,26.9255 -29.56457,-5.9538 -7.28903,5.9381 31.22976,9.1113 5.62384,-9.0956 z m -36.8536,-0.016 -7.99605,-2.3407 -24.3177,16.5889 7.93304,5.6239 24.38071,-19.8721 z m -32.31375,14.2482 -25.40176,-18.0184 -9.75539,2.6549 25.71597,21.7886 9.44118,-6.4251 z m -35.15715,-15.3635 -5.46681,-4.6343 -28.63775,5.184 4.42998,7.4933 29.67458,-8.043 z m -34.10456,0.5497 -16.40029,-27.6795 -10.30524,-1.6023 15.12791,31.3869 11.57762,-2.1051 z m -26.70553,-29.2818 -2.60775,-5.4197 -28.35495,-6.9277 0.8954,7.6818 30.0673,4.6656 z m -30.9627,-12.3474 -3.8332,-32.895 -8.5771,-5.52961 1.0682,35.64411 11.3421,2.7805 z m -12.4103,-38.42461 -0.157,-5.19972 -23.5008,-18.17548 -2.1052,6.75493 25.7631,16.62027 z m -23.6579,-23.3752 10.0852,-32.25091 -5.2312,-7.99596 -13.6826,33.41338 8.8286,6.83349 z m 4.854,-40.24687 1.8066,-4.39855 -14.4524,-26.87838 -4.4771,5.07407 17.1229,26.20286 z m -12.6458,-31.27693 22.5269,-25.60592 -1.3667,-8.43581 -26.0615,24.93042 4.9013,9.11131 z m 21.1602,-34.04173 3.4717,-3.31464 -2.3563,-31.46544 -6.268,2.87478 5.1526,31.9053 z m 1.1154,-34.78008 30.8842,-14.15393 1.8851,-7.13196 -33.4606,12.00179 0.6913,9.2841 z m 32.7693,-21.28589 5.0112,-1.79086 10.99637,-30.66428 -7.44607,0.0784 -8.5615,32.37658 z m 16.00757,-32.45514 33.41344,-0.377 3.89574,-4.85415 -34.51289,-2.57629 -2.79629,7.80744 z m 37.30918,-5.23115 6.23659,0.47128 23.1082,-24.16067 -7.61896,-3.28322 -21.72583,26.97261 z m 29.34479,-23.68939 29.89452,12.91294 4.72841,-2.43493 -29.48606,-15.85055 -5.13687,5.37254 z"
        id="path4358"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        sodipodi:type="arc"
        style="fill:none;stroke:#bca373;stroke-width:31.43695831;stroke-miterlimit:4;stroke-opacity:0.27058824;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4360"
@@ -208,9 +211,9 @@
        d="m -7.9573975,513.25037 c 0,183.48014 -148.7400425,332.22018 -332.2201825,332.22018 -183.48014,0 -332.22019,-148.74004 -332.22019,-332.22018 0,-183.48015 148.74005,-332.22019 332.22019,-332.22019 183.48014,0 332.2201825,148.74004 332.2201825,332.22019 z"
        transform="matrix(0.48439188,0,0,0.48439188,539.77925,283.7476)" />
     <g
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        transform="matrix(0.23773501,0,0,0.23773501,293.21343,185.77534)"
        id="g4362"
        style="font-size:56.92552948000000157px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bda373;fill-opacity:0.55882352999999996;stroke:none;stroke-width:2;stroke-opacity:0.99215686000000003;font-family:African;-inkscape-font-specification:African Bold">
@@ -276,9 +279,9 @@
          d="m 574.1774,962.94543 0,0.85388 c -3.68122,1.3283 -7.09675,3.30171 -10.2466,5.92026 -3.1499,2.58065 -5.92027,5.46487 -8.31112,8.65268 -0.11387,0.22772 -0.20875,0.4744 -0.28463,0.74003 -0.038,0.22772 -0.0569,0.4744 -0.0569,0.74003 -10e-6,0.18977 0.019,0.3985 0.0569,0.62618 0.0379,0.22772 0.0949,0.43645 0.17077,0.62618 0.0759,0.37952 0.18974,0.75903 0.34156,1.13851 0.15178,0.37952 0.30358,0.74005 0.4554,1.08159 0.0379,0.11386 0.0759,0.22772 0.11385,0.34155 0.0759,0.0759 0.13281,0.15182 0.17078,0.2277 1.02464,1.40418 2.22008,2.54269 3.58631,3.41553 1.40414,0.83492 2.92215,1.25238 4.55404,1.25237 0.0379,10e-6 0.0759,10e-6 0.11385,0 0.0379,10e-6 0.0759,10e-6 0.11385,0 -2e-5,10e-6 0.019,10e-6 0.0569,0 0.0379,10e-6 0.0759,10e-6 0.11385,0 l 0.79696,-0.85389 -0.11385,-13.43442 c 0.41742,-0.0759 0.83488,-0.15178 1.25236,-0.2277 0.41742,-0.0759 0.83488,-0.1328 1.25236,-0.17078 0.41742,-0.0379 0.83488,-0.0569 1.25236,-0.0569 0.41742,-0.0379 0.83488,-0.0569 1.25236,-0.0569 1.32823,2e-5 2.61854,0.11388 3.87094,0.34155 1.29027,0.18978 2.54263,0.49338 3.75708,0.91081 l 0.79696,0.91081 c -0.15184,1.21443 -0.26569,2.40987 -0.34155,3.58631 -0.0759,1.17648 -0.11389,2.35294 -0.11385,3.52938 -4e-5,0.37952 -4e-5,0.778 0,1.19544 -4e-5,0.37951 -4e-5,0.75902 0,1.13851 -4e-5,0.26566 -4e-5,0.53131 0,0.79695 -4e-5,0.26567 -4e-5,0.51235 0,0.74004 -4e-5,0.64516 -4e-5,1.29032 0,1.93546 0.0379,0.60722 0.0569,1.2334 0.0569,1.87855 0.0379,1.17646 0.0569,2.39087 0.0569,3.64323 -4e-5,1.21442 -4e-5,2.46678 0,3.75708 -0.22774,-0.0379 -0.47442,-0.0569 -0.74003,-0.0569 -0.22775,0 -0.47442,0 -0.74004,0 -1.3283,0 -2.73246,0.0949 -4.21249,0.28463 -1.44214,0.18975 -2.90323,0.39848 -4.38326,0.62618 -0.30363,0.0759 -0.60724,0.13282 -0.91081,0.17077 -0.26568,0.038 -0.55031,0.0759 -0.85388,0.11386 -1.21444,0.18975 -2.40988,0.36052 -3.58631,0.51232 -1.17649,0.11386 -2.33397,0.17078 -3.47246,0.17078 -2.54269,0 -4.91458,-0.47438 -7.11569,-1.42314 -2.20113,-0.9867 -4.02275,-2.92217 -5.46485,-5.8064 -1.44212,-1.82161 -2.77038,-3.7381 -3.98479,-5.74948 -1.21441,-2.01135 -1.82162,-4.15555 -1.82161,-6.43258 -10e-6,2e-5 -10e-6,2e-5 0,0 -10e-6,-0.0379 -10e-6,-0.0759 0,-0.11386 -10e-6,-0.0379 -10e-6,-0.0569 0,-0.0569 -10e-6,-0.0379 -10e-6,-0.0569 0,-0.0569 0.64515,-5.27507 2.86524,-10.03783 6.66028,-14.2883 3.83298,-4.25041 8.10239,-7.40028 12.80825,-9.44964 l 13.09287,6.37566 0,0" />
     </g>
     <g
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        transform="matrix(0.99742724,-0.07168616,0.07168616,0.99742724,581.53906,-411.18632)"
        id="g4384"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bca373;stroke:none;stroke-opacity:0.27058823999999998;font-family:African;-inkscape-font-specification:African Bold;fill-opacity:0.27058824999999997">
@@ -329,9 +332,9 @@
          style="fill:#bca373;fill-opacity:0.27058824999999997;stroke:none" />
     </g>
     <g
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        transform="matrix(0.99996198,-0.00871985,0.00871985,0.99996198,773.8727,112.55832)"
        id="g4404">
       <g
@@ -529,9 +532,9 @@
       </g>
     </g>
     <text
-       inkscape:export-ydpi="127.21"
-       inkscape:export-xdpi="127.21"
-       inkscape:export-filename="/home/anthony/Projects/luglogolatte/profile-solarize.png"
+       inkscape:export-ydpi="50.880001"
+       inkscape:export-xdpi="50.880001"
+       inkscape:export-filename="/home/anthony/Projects/nairobilug.or.ke/output/images/profile.png"
        sodipodi:linespacing="125%"
        id="text4484"
        y="414.2446"
